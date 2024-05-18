@@ -1,4 +1,4 @@
-package com.bare_minimum.bare_minimum
+package com.divyansh.bare_minimum
 
 import io.flutter.embedding.android.FlutterActivity
 
